@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "no-trailing-whitespace": false,
+    "no-console": false
+  }
+}
+
